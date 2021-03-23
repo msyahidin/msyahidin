@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **msyahidin/msyahidin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+## Follow Me! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
+
+![github stats](https://github-readme-stats.vercel.app/api?username=msyahidin&show_icons=true&theme=radical)
+![github toplang](https://github-readme-stats.vercel.app/api/top-langs/?username=msyahidin&layout=compact&theme=nightowl)
+
+
+<a href="https://www.twitter.com/idien" target="_blank"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height="32px" alt="Twitter"></a>
